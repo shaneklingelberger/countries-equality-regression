@@ -1,0 +1,198 @@
+CntryCode,Country,EI,EI Legal,EI PO,Rank
+IS,Iceland,95,100,90,1
+NO,Norway,87,88,87,2
+UY,Uruguay,84,94,74,3
+ES,Spain,83,100,67,4
+DK,Denmark,82,94,69,5
+CL,Chile,80,100,61,6
+MT,Malta,80,100,61,7
+DE,Germany,80,100,61,8
+AD,Andorra,80,86,74,9
+CU,Cuba,79,92,66,10
+CA,Canada,79,96,62,11
+AU,Australia,78,94,61,12
+PT,Portugal,77,94,60,13
+NZ,New Zealand,77,88,65,14
+NL,Netherlands,76,87,65,15
+SE,Sweden,75,85,65,16
+BR,Brazil,75,93,57,17
+BE,Belgium,75,88,61,18
+FR,France,74,90,59,19
+FI,Finland,74,82,66,20
+AR,Argentina,74,87,61,21
+CO,Colombia,71,92,50,22
+AT,Austria,71,82,60,23
+MX,Mexico,70,84,57,24
+IE,Ireland,70,80,59,25
+NP,Nepal,69,71,68,26
+CR,Costa Rica,69,85,54,27
+GB,United Kingdom,69,82,56,28
+LI,Liechtenstein,69,69,68,29
+US,United States,69,81,56,30
+CV,Cape Verde,68,55,80,31
+LU,Luxembourg,67,82,52,32
+IT,Italy,67,76,59,33
+CZ,Czechia,67,72,63,34
+ZA,South Africa,67,77,58,35
+CH,Switzerland,67,70,64,36
+SM,San Marino,67,63,71,37
+GR,Greece,66,92,40,38
+EC,Ecuador,65,89,42,39
+TH,Thailand,65,63,67,40
+SI,Slovenia,65,81,48,41
+BO,Bolivia,62,87,38,42
+IL,Israel,62,73,51,43
+SC,Seychelles,61,55,66,44
+TW,Taiwan,59,67,51,45
+EE,Estonia,58,73,44,46
+CY,Cyprus,58,79,36,47
+HR,Croatia,57,80,33,48
+ME,Montenegro,55,75,35,49
+BB,Barbados,55,38,71,50
+FJ,Fiji,55,55,,51
+IN,India,55,56,53,52
+PE,Peru,54,64,45,53
+TL,Timor-Leste,54,49,60,54
+JP,Japan,54,57,51,55
+MC,Monaco,53,56,51,56
+BW,Botswana,53,54,51,57
+CN,China,52,39,66,58
+PH,Philippines,52,46,59,59
+BT,Bhutan,52,54,50,60
+VE,Venezuela,52,48,56,61
+VN,Vietnam,51,50,53,62
+MU,Mauritius,51,50,52,63
+MZ,Mozambique,51,55,47,64
+BA,Bosnia and Herzegovina,50,63,38,65
+PL,Poland,50,57,43,66
+RS,Serbia,49,65,33,67
+BZ,Belize,49,54,44,68
+MH,Marshall Islands,49,49,,69
+HU,Hungary,49,57,40,70
+SK,Slovakia,49,64,33,71
+MK,North Macedonia,48,64,33,72
+UA,Ukraine,48,58,39,73
+XK,Kosovo,48,66,30,74
+FM,Federated States of Micronesia,48,48,,75
+AL,Albania,47,67,28,76
+LT,Lithuania,47,66,28,77
+ST,Sao Tome and Principe,47,49,44,78
+LV,Latvia,46,58,35,79
+KR,South Korea,46,53,39,80
+HN,Honduras,46,58,33,81
+KH,Cambodia,46,41,51,82
+NI,Nicaragua,45,50,40,83
+LA,Laos,45,40,50,84
+RO,Romania,44,55,33,85
+SG,Singapore,44,39,49,86
+LS,Lesotho,44,55,32,87
+NR,Nauru,43,43,,88
+AO,Angola,42,50,35,89
+MN,Mongolia,42,67,17,90
+SV,El Salvador,41,48,35,91
+NA,Namibia,41,49,33,92
+SR,Suriname,41,59,23,93
+VU,Vanuatu,39,45,34,94
+BG,Bulgaria,39,52,27,95
+PA,Panama,39,43,34,96
+GQ,Equatorial Guinea,38,38,,97
+AG,Antigua and Barbuda,38,60,17,98
+GY,Guyana,37,22,53,99
+MD,Moldova,37,67,8,100
+DO,Dominican Republic,36,40,33,101
+BH,Bahrain,36,30,42,102
+GT,Guatemala,35,38,31,103
+PY,Paraguay,34,38,31,104
+RW,Rwanda,34,37,32,105
+LC,Saint Lucia,34,51,17,106
+TR,Turkey,32,32,33,107
+KN,Saint Kitts and Nevis,32,50,15,108
+GW,Guinea-Bissau,32,40,24,109
+DJ,Djibouti,32,32,,110
+TJ,Tajikistan,32,32,,111
+GE,Georgia,32,50,13,112
+DM,Dominica,32,49,14,113
+PW,Palau,31,47,16,114
+PK,Pakistan,31,31,31,115
+VA,Vatican City,31,31,,116
+KP,North Korea,31,31,,117
+CG,Republic of the Congo,30,44,17,118
+BS,Bahamas,30,44,16,119
+WS,Samoa,30,30,,120
+MG,Madagascar,30,38,22,121
+LK,Sri Lanka,29,24,34,122
+RU,Russia,29,35,23,123
+KI,Kiribati,28,28,,124
+HT,Haiti,28,45,11,125
+BJ,Benin,27,38,16,126
+BY,Belarus,27,38,16,127
+SZ,Eswatini,27,26,27,128
+TT,Trinidad and Tobago,26,25,27,129
+CF,Central African Republic,26,26,,130
+PG,Papua New Guinea,26,26,,131
+MM,Myanmar,25,13,38,132
+AM,Armenia,25,45,5,133
+GA,Gabon,25,36,13,134
+BD,Bangladesh,25,16,33,135
+NE,Niger,24,36,12,136
+TV,Tuvalu,24,24,,137
+CI,Côte d’Ivoire,23,31,14,138
+SB,Solomon Islands,23,23,,139
+ID,Indonesia,22,33,11,140
+GD,Grenada,22,27,17,141
+KZ,Kazakhstan,22,33,11,142
+CD,Democratic Republic of the Congo,22,35,8,143
+KE,Kenya,21,24,19,144
+JM,Jamaica,21,24,18,145
+KG,Kyrgyzstan,20,31,10,146
+UZ,Uzbekistan,20,21,18,147
+PS,Palestine,19,29,8,148
+TM,Turkmenistan,18,18,,149
+GH,Ghana,18,18,18,150
+MY,Malaysia,18,8,27,151
+SY,Syria,17,7,27,152
+AZ,Azerbaijan,17,28,5,153
+JO,Jordan,17,27,6,154
+KM,Comoros,17,15,19,155
+LB,Lebanon,16,18,15,156
+LR,Liberia,16,24,9,157
+VC,Saint Vincent and the Grenadines,16,24,8,158
+GN,Guinea,14,15,14,159
+SL,Sierra Leone,14,22,6,160
+TN,Tunisia,14,13,15,161
+TD,Chad,14,14,14,162
+TZ,Tanzania,14,13,14,163
+SD,Sudan,14,9,19,164
+MA,Morocco,13,12,15,165
+LY,Libya,13,8,19,166
+DZ,Algeria,13,7,19,167
+IQ,Iraq,13,3,22,168
+ZW,Zimbabwe,12,14,10,169
+SA,Saudi Arabia,12,3,22,170
+ET,Ethiopia,12,10,13,171
+AE,United Arab Emirates,11,0,23,172
+NG,Nigeria,11,7,15,173
+YE,Yemen,10,4,17,174
+BI,Burundi,10,10,10,175
+MR,Mauritania,10,4,16,176
+EG,Egypt,10,5,15,177
+TO,Tonga,10,10,,178
+UG,Uganda,9,1,18,179
+TG,Togo,9,5,12,180
+BF,Burkina Faso,9,7,10,181
+SS,South Sudan,8,8,,182
+MW,Malawi,8,12,5,183
+ZM,Zambia,8,8,8,184
+QA,Qatar,8,6,9,185
+ML,Mali,8,6,9,186
+CM,Cameroon,7,4,11,187
+MV,Maldives,6,5,8,188
+KW,Kuwait,6,5,6,189
+IR,Iran,5,7,3,190
+ER,Eritrea,5,5,,191
+SN,Senegal,4,5,3,192
+GM,Gambia,3,3,4,193
+BN,Brunei,3,3,,194
+OM,Oman,3,3,,195
+AF,Afghanistan,1,0,2,196
+SO,Somalia,1,1,,197
